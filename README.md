@@ -27,7 +27,6 @@ Bonus for Postgres superstars: Consider the same schema, but now let’s add som
 Write a solution for the previous task. Please ensure It executes within 5 seconds. 
 
 ### Answer
-Optimizations:
 ```sql
 --TODO
 ```
